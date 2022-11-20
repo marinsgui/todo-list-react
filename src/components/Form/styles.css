@@ -1,0 +1,13 @@
+form {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+#input-task {
+    width: 60%;   
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid black;
+    font-size: 18px;
+}
