@@ -84,3 +84,17 @@ form {
 .clear-btn:hover {
     background-color: #262626d2;
 }
+
+@media (max-width: 915px) {
+    .App {
+        width: 90vw;
+    }
+
+    form {
+        flex-direction: column;
+    }
+
+    #input-task {
+        width: 100%;
+    }
+}
